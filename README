@@ -1,1 +1,9 @@
-This is a placeholder
+IO::Prompt::Simple is a simpler interface to IO::Prompt.
+To install:
+
+perl Makefile.PL
+make
+make test
+sudo make install
+
+
